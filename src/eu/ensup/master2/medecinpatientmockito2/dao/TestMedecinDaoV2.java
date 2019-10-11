@@ -6,8 +6,8 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
 
+import eu.ensup.master2.medecinpatientmockito2.domaine.Medecin;
 import eu.ensup.master2.medecinpatientmockito2.service.MedecinService;
-import eu.ensup.master2.medecinpatientmockitoé.domaine.Medecin;
 
 public class TestMedecinDaoV2 {
 	// 1- Mocker l'interface du dao

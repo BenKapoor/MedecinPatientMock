@@ -3,8 +3,8 @@ package eu.ensup.master2.medecinpatientmockito2.service;
 import java.util.ArrayList;
 
 import eu.ensup.master2.medecinpatientmockito2.dao.IMedecinDao;
-import eu.ensup.master2.medecinpatientmockitoé.domaine.Medecin;
-import eu.ensup.master2.medecinpatientmockitoé.domaine.Patient;
+import eu.ensup.master2.medecinpatientmockito2.domaine.Medecin;
+import eu.ensup.master2.medecinpatientmockito2.domaine.Patient;
 
 /**
  * @author benja Méthode consulter ayant en paramètre Medecin et Patient

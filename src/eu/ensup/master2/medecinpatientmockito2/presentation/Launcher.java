@@ -3,9 +3,9 @@ package eu.ensup.master2.medecinpatientmockito2.presentation;
 import java.util.Scanner;
 
 import eu.ensup.master2.medecinpatientmockito2.dao.MedecinDao;
+import eu.ensup.master2.medecinpatientmockito2.domaine.Medecin;
+import eu.ensup.master2.medecinpatientmockito2.domaine.Patient;
 import eu.ensup.master2.medecinpatientmockito2.service.MedecinService;
-import eu.ensup.master2.medecinpatientmockitoé.domaine.Medecin;
-import eu.ensup.master2.medecinpatientmockitoé.domaine.Patient;
 
 public class Launcher {
 

@@ -1,4 +1,4 @@
-package eu.ensup.master2.medecinpatientmockitoé.domaine;
+package eu.ensup.master2.medecinpatientmockito2.domaine;
 
 /**
  * @author benja Class métier Médecin
