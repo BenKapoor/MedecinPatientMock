@@ -21,7 +21,7 @@ public class TestMedecinDaoV2 {
 		/**
 		 * Sénario de test : La demande de lecture de l'information d'un médecin à
 		 * partir de son identifiant nous ramène la totalité des informations de ses
-		 * caractéristiques.
+		 * caractéristiques
 		 */
 
 		// 2- Créer le service -> remettre le constructeur dans le service
